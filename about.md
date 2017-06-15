@@ -2,8 +2,7 @@
 layout: page
 title: About | Resume
 ---
-# Kanav Dhir
-##### Boston, MA
+# Kanav Dhir ##### Boston, MA
 
 
 Software Engineer turned Product Manger at GE Ventues Incubator. 
