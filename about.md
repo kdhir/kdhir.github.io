@@ -20,8 +20,8 @@ Interests:
 `Personal Finance` `Real Estate Investing`
 
 
-* email: kanav [at] dhir.me
-* twitter: [@kdhirr](https://twitter.com/kdhirr)
-* github: [https://github.com/kdhir](https://github.com/kdhir)
-* linkedin: [https://github.com/kdhir](https://www.linkedin.com/in/kdhir/)
+```email: kanav [at] dhir.me
+twitter: [@kdhirr](https://twitter.com/kdhirr)
+github: [https://github.com/kdhir](https://github.com/kdhir)
+linkedin: [https://github.com/kdhir](https://www.linkedin.com/in/kdhir/)```
 
