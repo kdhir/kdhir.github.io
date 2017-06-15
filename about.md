@@ -11,6 +11,7 @@ Software Engineer turned Product Manger at GE Ventues.
 BU Alumni, GO TERRIERS! ![alt text](assets/rhett.gif "Rhett")
 
 
+
 Interests:
 
 `IOT` `Drones` `Robotics` `AI`
