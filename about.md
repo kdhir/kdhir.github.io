@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About | Resume
+title: About
 ---
 # Kanav Dhir
 ##### Boston, MA
