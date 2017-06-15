@@ -1,10 +1,27 @@
 ---
 layout: page
-title: About
+title: About | Resume
 ---
+# Kanav Dhir
+##### Boston, MA
 
-Hello.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Software Engineer turned Product Manger at GE Ventues Incubator. 
 
-**Less is more..**
+BU Alumni, GO TERRIERS! 
+
+
+Interests:
+
+Building and Launching products in `IOT` `Drones` `Robotics` `AI`
+
+`Data Science` `Artificial Intelligence` 
+
+`Personal Finance` `Real Estate Investing`
+
+
+* email: kanav [at] dhir.me
+* twitter: @kdhirr
+* github: https://github.com/kdhir
+* linkedin: https://www.linkedin.com/in/kdhir/
+
