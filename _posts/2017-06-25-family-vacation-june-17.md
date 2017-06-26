@@ -1,5 +1,5 @@
 ---
-title: Family Vacation (Drone Images) -June 2017 
+title: [Drone] Family Vacation -June 2017 
 updated: 2017-06-25 23:00
 ---
 
