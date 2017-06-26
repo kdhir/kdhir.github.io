@@ -13,7 +13,7 @@ BU Alumni, GO TERRIERS! ![alt text](assets/rhett.gif "Rhett")
 
 Interests:
 
-`IOT` `Drones` `Robotics` `AI`
+`IOT` `Drones` `Robotics`
 
 `Data Science` `Artificial Intelligence` 
 
