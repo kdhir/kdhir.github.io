@@ -1,5 +1,5 @@
 ---
-title: {Drone} Family Vacation -June 2017 
+title: Family Vacation -Drone 
 updated: 2017-06-25 23:00
 ---
 
