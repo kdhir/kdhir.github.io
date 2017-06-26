@@ -2,12 +2,12 @@
 title: Family Vacation (Drone Images) -June 2017 
 updated: 2017-06-25 23:00
 ---
+
+## *Cape Cod* Osterville, MA 
 Taken using **DJI Mavic Pro** by **Kanav Dhir**
 
-### Osterville, MA 
 
-## Cape Cod Views
-
+### Beautiful Views
 
 [![alt text](https://lh3.googleusercontent.com/4z4BINQ16ms30TONLvbJEkRqyxJDLkQOosWMcb4TAL2FPIqIAnkCFDYgw_BHGtHlC2dMAXGpqUQhamWn3VnwnqFJ37pbuAk2tkaM6DyaajpAAC7LN9h2gjoCrccCOHAYID0yhw "Sunset")](https://goo.gl/photos/5ZsW4jCBjgbwA51w6)
 
