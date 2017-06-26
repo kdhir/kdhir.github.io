@@ -1,5 +1,5 @@
 ---
-title: June 2017 Family Vacation (Drone Images)
+title: Family Vacation (Drone Images) -June 2017 
 updated: 2017-06-25 23:00
 ---
 Taken using **DJI Mavic Pro** by **Kanav Dhir**
