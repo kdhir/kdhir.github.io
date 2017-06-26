@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-# Kanav Dhir
 ##### Boston, MA
 
 
