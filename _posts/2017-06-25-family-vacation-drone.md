@@ -4,7 +4,7 @@ updated: 2017-06-25 23:00
 ---
 
 ## *Cape Cod*, Osterville, MA 
-Taken using **DJI Mavic Pro** by **Kanav Dhir** ![alt text](assets/mavic.png "mavic")
+Taken using **DJI Mavic Pro** by **Kanav Dhir** ![alt text](../assets/mavic.png "mavic")
 
 
 
