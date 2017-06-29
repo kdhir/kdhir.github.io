@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Family Vacation -June 2017 
-=======
 title: Family Vacation -Drone 
->>>>>>> 3fefa2dbcd787123d7be62e3c22832f54c2a3781
 updated: 2017-06-25 23:00
 ---
 
