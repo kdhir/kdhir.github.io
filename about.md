@@ -5,7 +5,7 @@ title: About
 ##### Boston, MA
 
 
-Software Engineer turned Product Manger at GE Ventues. 
+Software Engineer turned Product Manger at GE Ventures. 
 
 BU Alumni, GO TERRIERS! ![alt text](assets/rhett.gif "Rhett")
 
