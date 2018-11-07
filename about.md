@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-##### Currently in Boston, MA :pushpin:
+##### :pushpin: Currently in...<br/> Boston, MA
 
 - - - -
 
