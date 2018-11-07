@@ -24,10 +24,10 @@ Where did I pay a ton of money to learn stuff?
 Where can you reach me?
 
 >
-* :email:: kdhirr [at] gmail.com
-* twitter: [@kdhirr](https://twitter.com/kdhirr)
-* :octocat:: [https://github.com/kdhir](https://github.com/kdhir)
-* linkedin: [https://www.linkedin.com/in/kdhir/](https://www.linkedin.com/in/kdhir/)
+:email:: kdhirr [at] gmail.com
+twitter: [@kdhirr](https://twitter.com/kdhirr)
+:octocat:: [https://github.com/kdhir](https://github.com/kdhir)
+linkedin: [https://www.linkedin.com/in/kdhir/](https://www.linkedin.com/in/kdhir/)
 
 - - - -
 
