@@ -25,10 +25,9 @@ Where did I pay a ton of money to learn stuff?
 
 - - - -
 
+`Data Science` `Artificial Intelligence` 
 
 `IOT` `Drones` `Robotics`
-
-`Data Science` `Artificial Intelligence` 
 
 `Personal Finance` `Real Estate Investing`
 
@@ -36,7 +35,7 @@ Where did I pay a ton of money to learn stuff?
 
 Where can you reach me?
 
-* email: kanav [at] dhir.me
+* email: kdhirr [at] gmail.com
 * twitter: [@kdhirr](https://twitter.com/kdhirr)
 * github: [https://github.com/kdhir](https://github.com/kdhir)
 * linkedin: [https://www.linkedin.com/in/kdhir/](https://www.linkedin.com/in/kdhir/)
